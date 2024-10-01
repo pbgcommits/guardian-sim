@@ -22,7 +22,7 @@ def main():
     sim(n, seed="Comment")
     sim(n, seed="Random")
 
-# Simulation description
+# Simulation description (default seed is "Angus")
 def sim(n : int, seed="Angus"):
     # Seed the pseudorandom generator
     random.seed(seed) 
