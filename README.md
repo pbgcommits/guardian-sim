@@ -1,0 +1,1 @@
+Annotated code to run a simulation of the puzzle found here: https://www.theguardian.com/science/2024/sep/30/can-you-solve-it-the-box-problem-that-baffled-the-boffins.
